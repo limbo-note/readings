@@ -53,8 +53,8 @@
 	
 	网状结构，包括了跨学科的联合，教师与教师、学生与学生之间有充分互动，21世纪综合能力
 	三种议题（学业成就、信息、专业知识）不应该被摒弃，只是不够饱满
-![教育的层级结构.PNG](https://github.com/limbo-china/books/blob/master/教育的层级结构.PNG)
-![教育的网状结构.PNG](https://github.com/limbo-china/books/blob/master/教育的网状结构.PNG)
+![教育的层级结构.PNG](1.PNG)
+![教育的网状结构.PNG](2.PNG)
 
 案例：有丝分裂之舞与设计一条鱼
 
@@ -217,7 +217,7 @@ B. 什么样的教学能使全局性理解为生活做好准备
 
 ## 个人能力与人际交往能力
 图8-1
-![个人能力和人际交往能力.PNG](https://github.com/limbo-china/books/blob/master/个人能力和人际交往能力.PNG)
+![个人能力和人际交往能力.PNG](3.PNG)
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
